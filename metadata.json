@@ -1,0 +1,6 @@
+{
+  "name": "AI Dynamic Pricing Agent",
+  "description": "An interactive real-time dashboard and playground that simulates and runs pricing optimization heuristics and Gemini AI analysis on SKU data to maximize profit margins dynamically.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
